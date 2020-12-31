@@ -2,3 +2,5 @@ The EE5SEQ-ARP is a project I did for university. It is a MIDI sequencer capable
 I made it on proto-board and don't expect anyone to ever make this thing, though feel free to play around with the code or take stuff from the schematic!
 
 It is written for the PIC18F2550 using a custom board for it.
+
+For more information on this, first, check the EE5 manual, if you want more info, feel free to contact me via: belmansander@gmail.com
